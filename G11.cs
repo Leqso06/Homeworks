@@ -26,8 +26,6 @@ internal class Program
     }
 }
 
-namespace G11_230316;
-
 public static class ArrayTools
 {
     public static void Sort(object[] array)
@@ -81,8 +79,6 @@ public static class ArrayTools
         }
     }
 }
-
-namespace G11_230316;
 
 public class Book
 {
