@@ -1,0 +1,5 @@
+C:\Users\Xofera\OneDrive\Desktop\G11_230316\obj\Debug\net6.0\G11_230316.csproj.AssemblyReference.cache
+C:\Users\Xofera\OneDrive\Desktop\G11_230316\obj\Debug\net6.0\G11_230316.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xofera\OneDrive\Desktop\G11_230316\obj\Debug\net6.0\G11_230316.AssemblyInfoInputs.cache
+C:\Users\Xofera\OneDrive\Desktop\G11_230316\obj\Debug\net6.0\G11_230316.AssemblyInfo.cs
+C:\Users\Xofera\OneDrive\Desktop\G11_230316\obj\Debug\net6.0\G11_230316.csproj.CoreCompileInputs.cache

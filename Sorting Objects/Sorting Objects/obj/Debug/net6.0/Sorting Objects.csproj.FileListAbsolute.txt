@@ -1,0 +1,15 @@
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/bin/Debug/net6.0/Sorting Objects
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/bin/Debug/net6.0/Sorting Objects.deps.json
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/bin/Debug/net6.0/Sorting Objects.runtimeconfig.json
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/bin/Debug/net6.0/Sorting Objects.dll
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/bin/Debug/net6.0/Sorting Objects.pdb
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.csproj.AssemblyReference.cache
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.AssemblyInfoInputs.cache
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.AssemblyInfo.cs
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.csproj.CoreCompileInputs.cache
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.dll
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/refint/Sorting Objects.dll
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.pdb
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/Sorting Objects.genruntimeconfig.cache
+/Users/leqso/OneDrive/Tasks/G11_230316 (1)/G11_230316/obj/Debug/net6.0/ref/Sorting Objects.dll
